@@ -1,0 +1,12 @@
+https://github.com/josephmisiti/awesome-machine-learning
+https://github.com/NirantK/awesome-project-ideas
+https://github.com/ugwaj/awesome-machine-learning-python
+http://cs224d.stanford.edu/
+https://github.com/kjw0612/awesome-deep-vision
+https://github.com/jbhuang0604/awesome-computer-vision
+https://github.com/AGV-IIT-KGP/awesome-computer-vision
+http://cs231n.stanford.edu/reports/2017/pdfs/
+http://karpathy.github.io/
+https://blog.floydhub.com/turning-design-mockups-into-code-with-deep-learning/
+https://course.fast.ai/index.html
+https://arxiv.org
