@@ -1,0 +1,20 @@
+# Uncomment the next line to define a global platform for your project
+platform :ios, '11.0'
+
+target 'UIRetrieve' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for UIRetrieve
+  pod 'Alamofire'
+
+  target 'UIRetrieveTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+  target 'UIRetrieveUITests' do
+    # Pods for testing
+  end
+
+end
