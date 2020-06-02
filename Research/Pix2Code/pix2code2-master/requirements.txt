@@ -2,7 +2,7 @@ adium-theme-ubuntu==0.3.4
 appdirs==1.4.3
 backports.shutil-get-terminal-size==1.0.0
 backports.weakref==1.0.post1
-bleach==1.5.0
+bleach==3.1.4
 cycler==0.10.0
 Cython==0.25.2
 decorator==4.0.11
